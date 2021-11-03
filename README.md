@@ -12,6 +12,7 @@ My programming languages knowledge:
 - JavaScript
 - Java
 - Python
+- PHP
 
 Additional knowledge:
 - Docker
